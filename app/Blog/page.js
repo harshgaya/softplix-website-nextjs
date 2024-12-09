@@ -13,6 +13,7 @@ export default function Blog() {
         ]}
       />
       <h1>Blog</h1>
+      <p>Hello</p>
     </>
   );
 }
